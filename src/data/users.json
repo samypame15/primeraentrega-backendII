@@ -1,0 +1,8 @@
+{
+  "message": "Usuario registrado con éxito",
+  "user": {
+    "_id": "...",
+    "first_name": "Juan",
+    "last_name": "Pérez"
+  }
+}
